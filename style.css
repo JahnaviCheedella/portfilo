@@ -47,7 +47,7 @@ body {
     padding-left: 20px;
 }
 .image {
-    height: 130px;
+    height: 200px;
 }
 .home-h1 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -62,7 +62,7 @@ body {
     text-align: center;
 }
 .ser-h1 {
-    color: red;
+    color:skyblue;
     letter-spacing: 3px;
     font-size: 50PX;
     font-style: italic;
